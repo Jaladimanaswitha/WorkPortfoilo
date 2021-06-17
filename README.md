@@ -28,10 +28,10 @@ During Sprint 3, my team started working on farmers profile page where a user wi
 * Sprint 4:Learnings
 During Sprint 4, my team started working on the farmers product adding page where a user with type farmer will be able to add and edit his/her information regarding the products and update it in the database. These details will be showcased in the website and can be edited or deleted by the farmer along with adding new products.
 
-*Sprint 5:
+* Sprint 5:
 	During Sprint 5, my team started working on Unit Testing. After a complete day of research about unit testing, we started to implement it. After completing the backend unit testing, we started to work on the previous changes that had to be made. Later, we started with the process of integration.
 
-*Sprint 6:
+* Sprint 6:
 	During Sprint 6, my team continued to work the process of integration. During the integration we faced a few issues related to CSS and images. After dealing with these issues, we started to work on implementing a search bar for farmer search and later we moved to work on customer search bar.
 
 
