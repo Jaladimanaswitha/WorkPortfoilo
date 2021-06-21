@@ -18,18 +18,18 @@ Git and GitHub
 
 
 ## Learnings:
-* Sprint 1: During Sprint 1....
+#### Sprint 1: During Sprint 1....
   * We learnt about scrum processes and agile methodology. Also, we came to know about the technologies (MERN - MongoDB, Express, React JS and Node JS) that have to be used to complete the project.
   * After that we learnt how to create and use Git repositories and branches.Also learnt about how to write user stories.
   * Last two days of the Sprint, I worked on sample sign up appliction using MERN technology
   *learnt how to connect data base from back-end and express to connect both front-end and back-end
 
-* Sprint 2: During Sprint 2....
+#### Sprint 2: During Sprint 2....
 
   * we were split into two teams and my team was given a task of creating screens(UI - User Interface) and database tables. 
   * After going through various examples of database tables we created a few suitable database tables along with the screens. 
   * After creating the screens and database tables we started working on the navbar (navigation bar) and completed it by the end of Sprint 2.
-* Sprint 3: During Sprint 3....
+####  Sprint 3: During Sprint 3....
   * I along with my team started working on farmers profile page
   * A user with type farmer will be able to edit his/her information and update it in the database without creating a new field in the database.
   * We started coding the backend, connected to the database and checked the required functions like delete, getting data using postman.
