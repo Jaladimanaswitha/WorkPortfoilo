@@ -43,12 +43,21 @@ Git and GitHub
   *  We have done this page similar to the profile but an extra feature added was to store the image.
 
 * Sprint 5: During Sprint 5....
-	My team started working on Unit Testing. After a complete day of research about unit testing, we started to implement it. After completing the backend unit testing, we started to work on the previous changes that had to be made. Later, we started with the process of integration.
-
+  * My team started working on Unit Testing.
+  * After a complete day of research about unit testing, we started to implement it. 
+  * After completing the backend unit testing, we started to work on the previous changes that had to be made. 
+  * Later, we started with the process of integration.
+  
 * Sprint 6: During Sprint 6....
-	My team continued to work the process of integration. During the integration we faced a few issues related to CSS and images. After dealing with these issues, we started to work on implementing a search bar for farmer search and later we moved to work on customer search bar.
- * Sprint 7:During Sprint 7.....
- 	My team continued to work the process of integration for profile editing. During the integration we faced a few issues where the information was working well in the backend but fetching the details to the frontend proved a little difficult. After working on these issues, the integration process was completed along with the task of adding to cart page.
+  * My team continued to work the process of integration. 
+  * During the integration we faced a few issues related to and display pages and images
+  * The information was not displaying due to incorrect routing, so we resolved it
+  * Later, we started to work on implementing a search bar for farmer search and later we moved to work on customer search bar.
+  
+* Sprint 7:During Sprint 7.....
+   * My team continued to work the process of integration for profile editing.
+   *  During the integration we faced a few issues where the information was working well in the backend but fetching the details to the frontend proved a little difficult.
+   *  After working on these issues, the integration process was completed along with the task of adding to cart page.
 
 
 
