@@ -28,7 +28,12 @@ Git and GitHub
   * we were split into two teams and my team was given a task of creating screens(UI - User Interface) and database tables. 
   * After going through various examples of database tables we created a few suitable database tables along with the screens. After creating the screens and database tables we started working on the navbar (navigation bar) and completed it by the end of Sprint 2.
 * Sprint 3: During Sprint 3....
-During Sprint 3, my team started working on farmers profile page where a user with type farmer will be able to edit his/her information and update it in the database without creating a new field in the database. 
+  * I anlong with my team started working on farmers profile page
+  * A user with type farmer will be able to edit his/her information and update it in the database without creating a new field in the database.
+  * We started coding the backend, connected to the database and checked the required functions like delete, getting data using postman.
+  * After successfully connecting with the back-end we started to work on the front-end.
+  * We designed a form to display all information from the database.
+  * Next we designed an edit form and saved all the details in the database and styled the page accordingly.
 
 * Sprint 4: During Sprint 4....
 During Sprint 4, my team started working on the farmers product adding page where a user with type farmer will be able to add and edit his/her information regarding the products and update it in the database. These details will be showcased in the website and can be edited or deleted by the farmer along with adding new products.
