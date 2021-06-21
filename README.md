@@ -21,7 +21,8 @@ Git and GitHub
 * Sprint 1: During Sprint 1....
   * We learnt about scrum processes and agile methodology. Also, we came to know about the technologies (MERN - MongoDB, Express, React JS and Node JS) that have to be used to complete the project.
   * After that we learnt how to create and use Git repositories and branches.Also learnt about how to write user stories.
-  * Last two days of the Sprint, I worked on sample sign up appliction using MERN technology and learnt how to connect to data base from back-end and express to connect front-end and back-end.
+  * Last two days of the Sprint, I worked on sample sign up appliction using MERN technology
+  *learnt how to connect data base from back-end and express to connect both front-end and back-end
 
 * Sprint 2: During Sprint 2....
 
@@ -46,6 +47,10 @@ Git and GitHub
 
 * Sprint 6: During Sprint 6....
 	My team continued to work the process of integration. During the integration we faced a few issues related to CSS and images. After dealing with these issues, we started to work on implementing a search bar for farmer search and later we moved to work on customer search bar.
+ * Sprint 7:During Sprint 7.....
+ 	My team continued to work the process of integration for profile editing. During the integration we faced a few issues where the information was working well in the backend but fetching the details to the frontend proved a little difficult. After working on these issues, the integration process was completed along with the task of adding to cart page.
+
+
 
 
 
