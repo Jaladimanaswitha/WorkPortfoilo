@@ -22,7 +22,7 @@ Git and GitHub
   * We learnt about scrum processes and agile methodology. Also, we came to know about the technologies (MERN - MongoDB, Express, React JS and Node JS) that have to be used to complete the project.
   * After that we learnt how to create and use Git repositories and branches.Also learnt about how to write user stories.
   * Last two days of the Sprint, I worked on sample sign up appliction using MERN technology
-  *learnt how to connect data base from back-end and express to connect both front-end and back-end
+  * learnt how to connect data base from back-end and express to connect both front-end and back-end
 
 #### Sprint 2: During Sprint 2....
 
