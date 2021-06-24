@@ -61,6 +61,13 @@ Git and GitHub
    *  During the integration we faced a few issues where the information was working well in the backend but fetching the details to the frontend proved a little difficult.
    *  After working on these issues, the integration process was completed along with the task of adding to cart page.
 
+#### Sprint 8: During Sprint 8.....
+   * We started to work on the process of checkout and once we completed it we moved to work on the orders page of the customer. 
+   * After that we started to work on the orders page of the farmer. 
+   * After all these tasks we started to work on accept and reject order during which we faced a few issues.
+   * Finally we were able to sort out the accept or reject order and we were able to display it to the customer as well.
+
+
 
 
 
